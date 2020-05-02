@@ -1,0 +1,208 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+  list-style: none;
+}
+/* div{
+    border: 1px solid grey;
+
+} */
+.main{background-color: skyblue;
+      color: white;
+}
+nav{background-color: steelblue;
+    color: skyblue;
+   
+}
+.section1{
+    color:white;
+    text-align: center;
+    position: relative;
+    left: 650px;
+    bottom: 300px;
+    font-size:x-large;
+}
+.section2{
+    color: white;
+    background-color: yellowgreen;
+    position: relative;
+    bottom: 50px;
+}
+
+
+.color1{
+    background-color: rgb(165, 159, 159);
+    width: 400px;
+    height: 200px;
+    padding: 10px 10px 10px 20px;
+    border: 1px solid grey;
+    display: inline-block;
+    margin: 5px 30px 0px 5px;
+}
+.color2{
+    display: inline-block;
+    background-color: rgb(165, 159, 159);
+    width: 400px;
+    height: 200px;
+    padding: 10px 10px 10px 20px;
+    border: 1px solid grey;
+    margin:5px 20px 0px 50px ;
+    position: relative;
+    bottom: 43px;
+}
+.color3{background-color: rgb(165, 159, 159);
+    width: 400px;
+    height: 200px;
+    padding: 10px 10px 10px 20px;
+    border: 1px solid grey;
+    display: inline-block;
+    margin: 5px 0px 0px 50px;
+    position: relative;
+    bottom: 25px;
+}
+
+
+
+
+
+button{margin: 10px 20px 5px 10px;
+text-align: center;}
+
+.section3{
+    background-color: blueviolet;
+    color: white;
+    width:400px ;
+    height: 200px;
+    padding: 10px 10px 10px 20px;
+    margin: 5px 50px 0px 0px;
+    display: inline-block;
+    position: relative;
+    bottom: 100px;
+}
+.section4{
+    background-color: rgb(74, 74, 223);
+    color: white;
+    width: 400px;
+    height: 200px;
+    padding: 10px 10px 10px 20px;
+   margin-left: 30px;
+    display: inline-block;
+    position: relative;
+    bottom: 100px;
+}
+.S1{
+    display: inline-block;
+    margin-left: 80px;
+    position: relative;
+    bottom: 5px;
+    left: 20px;
+
+}
+.footer{background-color: rgb(104, 98, 98);}
+img{
+    width:100%;
+    opacity: 0.9;
+    
+}
+footer>div>div{
+    display: inline-block;
+    
+}
+footer>div>div>h3{
+    color: white;
+}
+#last1{
+    position:relative;
+    top: 20px;
+    left: 100px;
+}
+#last2{
+    position: relative;
+    bottom: 50px;
+    left: 200px;
+}
+#last3{
+    position: relative;
+    left: 300px;
+    bottom: 40px;
+}
+#last7{
+    position: relative;
+    
+    bottom:220px;
+    left: 500px;
+}
+#last5{
+    position: relative;
+    left: 280px;
+    bottom: 50px;
+}
+#last6{
+    position: relative;
+    left: 320px;
+}
+#last4{
+    position: relative;
+    left: 100px;
+}
+#last8{
+    position: relative;
+    left: 500px;
+}
+#buttons{
+    position: relative;
+    left: 400px;
+}
+#margin{
+    margin: 10px 30px 10px 30px;
+}
+.about{
+    display: inline-block;
+    border-left: 1px solid white;
+    padding: 10px 50px 10px 20px;
+    color: white;
+}
+#nav{
+    position: relative;
+    left: 300px;
+    width: 950px;
+}
+#name{
+    position: relative;
+    left: 600px;
+    font-size: 20px;
+}
+#bt{
+    position: relative;
+    left: 1200px;
+    bottom: 100px;
+    font-size: 30px;
+}
+#list{
+    position: relative;
+    top: 80px;
+    left: 50px;
+    word-spacing: 2em;
+}
+.vl{
+    border-left: 1px solid white;
+  height: 20px;
+  display: inline-block;
+}
+.bt1{
+    color: blue; 
+    border: 1px solid blue;
+     background-color: white;
+    padding: 5px 10px 5px 10px;
+    margin-top: 0px;
+}
+.input{
+    padding: 5px 10px 5px 10px;
+    border: 1px solid white;
+    background-color: skyblue;
+    color: white;
+}
+.about:hover{
+    background-color: rgb(5, 5, 82);
+    color: white;
+}
